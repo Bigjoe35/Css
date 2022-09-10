@@ -1,0 +1,302 @@
+h1 {
+  color: #850E35;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  line-height: 2;
+}
+
+h2 {
+  color: #EE6983;
+  text-decoration: underline;
+  padding-bottom: 50px;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #FA9494;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+.web {
+  text-decoration: overline;
+}
+
+body {
+  background-size: cover;
+  width: 100%;
+  color: #CDF0EA;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  margin-top: 0;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  color: #748DA6;
+  border: dotted;
+  border-top: 0;
+  width: 10%;
+  margin-top: 50px;
+}
+
+a {
+  text-decoration: none;
+  margin: 20px 10px;
+}
+
+a:hover {
+  color: lightpink;
+}
+
+.background-image {
+  background-image: url(https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&w=1600);
+  background-size: contain;
+}
+
+.my-road {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.web-image {
+  border-bottom-width: 20px;
+  margin-bottom: 0;
+  margin-top: 25px;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.kwame {
+  float: right;
+  padding-right: 0;
+  margin-right: 450px;
+  border-left-width: 100px;
+  margin-left: 0;
+}
+
+.kn {
+  float: left;
+  margin-top: 50px;
+  margin-right: 20px;
+  margin-left: 0;
+  padding-left: 10.;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.joseph {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.first {
+  text-decoration: underline;
+}
+
+.sun1 {
+  position: absolute;
+  left: 1200px;
+}
+
+.sun2 {
+  position: absolute;
+  left: 100px;
+}
+
+.wanna-know {
+  width: 30%;
+  margin: 0 auto;
+}
+.contact-joe {
+  background-image: url(https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.contact-joe:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.time-with {
+  background: #10e69f;
+  background-image: -webkit-linear-gradient(top, #10e69f, #6a9dbd);
+  background-image: -moz-linear-gradient(top, #10e69f, #6a9dbd);
+  background-image: -ms-linear-gradient(top, #10e69f, #6a9dbd);
+  background-image: -o-linear-gradient(top, #10e69f, #6a9dbd);
+  background-image: linear-gradient(to bottom, #10e69f, #6a9dbd);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.time-with:hover: {
+  background: #498521;
+  background-image: -webkit-linear-gradient(top, #498521, #7ba9c7);
+  background-image: -moz-linear-gradient(top, #498521, #7ba9c7);
+  background-image: -ms-linear-gradient(top, #498521, #7ba9c7);
+  background-image: -o-linear-gradient(top, #498521, #7ba9c7);
+  background-image: linear-gradient(to bottom, #498521, #7ba9c7);
+  text-decoration: none;
+}
+
+.forms {
+  text-align: center;
+  width: 30;
+  text-align: left;
+}
+
+.joe {
+  line-height: inherit;
+  background-image: url(https://images.pexels.com/photos/1416530/pexels-photo-1416530.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.linkin {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.linkin:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #698ea6);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #698ea6);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #698ea6);
+  background-image: -o-linear-gradient(top, #3cb0fd, #698ea6);
+  background-image: linear-gradient(to bottom, #3cb0fd, #698ea6);
+  text-decoration: none;
+}
+
+.facebook {
+  background: #040b52;
+  background-image: -webkit-linear-gradient(top, #040b52, #24638a);
+  background-image: -moz-linear-gradient(top, #040b52, #24638a);
+  background-image: -ms-linear-gradient(top, #040b52, #24638a);
+  background-image: -o-linear-gradient(top, #040b52, #24638a);
+  background-image: linear-gradient(to bottom, #040b52, #24638a);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.facebook:hover {
+  background: #2b7bad;
+  background-image: -webkit-linear-gradient(top, #2b7bad, #698ea6);
+  background-image: -moz-linear-gradient(top, #2b7bad, #698ea6);
+  background-image: -ms-linear-gradient(top, #2b7bad, #698ea6);
+  background-image: -o-linear-gradient(top, #2b7bad, #698ea6);
+  background-image: linear-gradient(to bottom, #2b7bad, #698ea6);
+  text-decoration: none;
+}
+
+.twitter {
+  background: #62c3e0;
+  background-image: -webkit-linear-gradient(top, #62c3e0, #2998d9);
+  background-image: -moz-linear-gradient(top, #62c3e0, #2998d9);
+  background-image: -ms-linear-gradient(top, #62c3e0, #2998d9);
+  background-image: -o-linear-gradient(top, #62c3e0, #2998d9);
+  background-image: linear-gradient(to bottom, #62c3e0, #2998d9);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.twitter:hover {
+  background: #2b7bad;
+  background-image: -webkit-linear-gradient(top, #2b7bad, #698ea6);
+  background-image: -moz-linear-gradient(top, #2b7bad, #698ea6);
+  background-image: -ms-linear-gradient(top, #2b7bad, #698ea6);
+  background-image: -o-linear-gradient(top, #2b7bad, #698ea6);
+  background-image: linear-gradient(to bottom, #2b7bad, #698ea6);
+  text-decoration: none;
+}
+
+.instagram {
+  background: #ff9900;
+  background-image: -webkit-linear-gradient(top, #ff9900, #d929cd);
+  background-image: -moz-linear-gradient(top, #ff9900, #d929cd);
+  background-image: -ms-linear-gradient(top, #ff9900, #d929cd);
+  background-image: -o-linear-gradient(top, #ff9900, #d929cd);
+  background-image: linear-gradient(to bottom, #ff9900, #d929cd);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.instgram:hover {
+  background: #ab2b45;
+  background-image: -webkit-linear-gradient(top, #ab2b45, #a66a7e);
+  background-image: -moz-linear-gradient(top, #ab2b45, #a66a7e);
+  background-image: -ms-linear-gradient(top, #ab2b45, #a66a7e);
+  background-image: -o-linear-gradient(top, #ab2b45, #a66a7e);
+  background-image: linear-gradient(to bottom, #ab2b45, #a66a7e);
+  text-decoration: none;
+}
+
+.copyright {
+  color: white;
+}
